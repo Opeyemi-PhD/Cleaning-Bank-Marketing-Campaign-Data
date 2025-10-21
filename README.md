@@ -2,6 +2,7 @@
 ## Table of Contents
 - Project Overview
 - Dataset Description
+- Steps Summary
 - Conclusions 
 ---
 
@@ -122,5 +123,5 @@ It includes demographic data about clients, details of previous and current mark
 
 ---
 **Author:** _Opeyemi Olanrewaju_  
-**Programming Language and Version:** _Python, 3.12_
+**Programming Language and Version:** _Python 3.12_
 
